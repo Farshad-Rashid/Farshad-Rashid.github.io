@@ -46,3 +46,9 @@ header{
     top: 55%;
     left: 30.5%;
 }
+
+.avatar{
+    position: absolute;
+    top: 15%;
+    left: 60%;
+}
